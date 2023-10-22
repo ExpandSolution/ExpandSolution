@@ -19,7 +19,7 @@ Esse projeto é baseado na metodologia ágil Scrum, onde tudo que aprendemos nas
 * [Burndown](#Burndown)
 * [Competências Desenvolvidas](#competências-desenvolvidas)
 
-# Projeto (API) 
+# Projeto
 O Projeto pedagógico é alicerçado na Metodologia de Aprendizagem por Projeto Integrador (API), para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o Mínimo Produto Viável (MVP), seguido de sua operação (CDIO). Os resultados dos projetos devem obedecer ao Aviso Legal, disponível no site da Fatec SJC, com definição das datas do Kickoff e das Sprints.
 
 Sprint | Previsão | Status| Relatório|
@@ -50,7 +50,7 @@ Scrum Team | Scrum Team | Scrum Team | Scrum Team | Scrum Team
 
 # Objetivo do Projeto
 
-O Projeto tem como objetivo, identificar os modais utilizados nos trâmites internacionais de movimentação de cargas e realizar a geografia dos fluxos de cargas, de importação e exportação, para que possa ser desenvolvido um dashboard interativo que permita fazer uma análise de dados.
+O Projeto tem como objetivo, identificar os modais utilizados nos trâmites internacionais de movimentação de cargas e realizar a geografia dos fluxos de cargas, de importação e exportação, para que possa ser desenvolvido um dashboard interativo que permita fazer uma análise dos dados. O dashboard deve conter de forma clara uma visão de qual modal mais utilizado, dos custos que esses modais tiveram, contara com o valor FOB, onde teremos que também assosiar ao SH4.
 
 # Funcionalidades e Registros das Sprints
 
@@ -91,12 +91,11 @@ Regras de Negócio
 
 Requisitos funcionais:
 
-- Conteúdo da Apresentação
+- Dashboard
 - Relatórios
   
 Requisitos não funcionais:
 
-- Usar tecnologias especifícas/apoio/tecnológicas
 - Metodologias Ágil
 - Excel / Jira / 5W2H  / Power BI
   
