@@ -3,37 +3,62 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=50&center=true&vCenter=true&width=1000&lines=Olá,+Somos+a+Expand+Solutions!+:%29)](https://git.io/typing.svg)
 
 
-# Aprendizado por Projeto Integrador
-
-Esse projeto é baseado na metodologia ágil Scrum, onde tudo que aprendemos nas matérias de Logística, podemos colocar o aprendizado em pratica ao desenvolver o projeto, assim, analisamos, discutimos e integramos ao que aprendemos conforme o que nos é solicitado. O projeto integrador promove esse diálogo entre as disciplinas, ele costuma envolver diferentes etapas, isso vai desde a identificação do que deve ser feito até a execução. Somos desafiados a trabalhar em equipe, fazer pesquisas, coletar e analisar dados para achar soluções.
-
-# Índice
-
-* [Projeto](#projeto-api)
-* [Equipe](#equipe)
-* [Objetivo do Projeto](#objetivo-do-projeto)
-* [Funcionalidades e Registros das Sprints](#funcionalidades-e-registros-das-sprints)
-* [Tecnologias Utilizadas](#tecnologias-utilizadas)
-* [Cronograma das Sprints](#Cronograma)
-* [Backlog do Produto](#Backlog-do-produto)
-* [Burndown](#Burndown)
-* [Competências Desenvolvidas](#competências-desenvolvidas)
-
-# Projeto
-O Projeto pedagógico é alicerçado na Metodologia de Aprendizagem por Projeto Integrador (API), para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o Mínimo Produto Viável (MVP), seguido de sua operação (CDIO). Os resultados dos projetos devem obedecer ao Aviso Legal, disponível no site da Fatec SJC, com definição das datas do Kickoff e das Sprints.
-
-Sprint | Previsão | Status| Relatório|
-|------|--------|------|--------|
-|Kick Off | 06/09/2023 | Concluído|  | 
-|00| 25/09/2023 | Concluído|  | 
-|01|  25/10/2023| Em Progresso  | 
-|02| 08/11/2023 | a fazer| | 
-|03| 29/11/2023 |a fazer |  | 
-|Feira de Soluções|12/12/2023 |a fazer | | 
+<div align="center">
+  <img src="https://github.com/ExpandSolution/Teste/assets/135040407/27c2bcd9-7957-4717-b07a-8b51ef9eebe7" height="400" width="400"/>
+<p align="center"
 
 
 
-# Equipe
+
+   * [Missão](#Missão)
+   * [Visão](#Visão)
+   * [Valores](#Valores)
+   * [Sobre o Projeto](#Sobre-o-Projeto)
+   * [Sobre a Empresa](#Sobre-a-Empresa)
+   * [Tecnologias](#Tecnologias)
+   * [Autores](#Autores)
+  
+# Missão
+
+Nossa missão é fornecer soluções de Logística excepcionais para nossos clientes, otimizando suas cadeias de suprimentos e melhorando a eficiência de suas operações. Buscamos constantemente aprimorar nossa expertise, adotar tecnologias inovadoras e proporcionar um serviço confiável, pontual e sustentável.
+  
+# Visão
+
+Nossa visão é nos tornarmos globais em soluções de Logística, reconhecidos pela excelência de nossos serviços, inovação constante e compromisso inabalável com a satisfação do cliente. Buscamos expandir nossas operações, proporcionando um impacto positivo nas cadeias de suprimentos globais e na sociedade como um todo, ao mesmo tempo em que mantemos nosso compromisso com a sustentabilidade e a responsabilidade social.
+  
+# Valores
+
+Buscamos a excelência em todos os aspectos de nossas operações, garantindo que nossos serviços atendam ao que o cliente solicita, colocamos seus interesses em primeiro lugar, entendendo suas necessidades e superando suas expectativas, por meio de soluções personalizadas e atendimento excepcional. Valorizamos o trabalho em equipe e a colaboração, tanto dentro da empresa quanto com nossos parceiros e fornecedores, reconhecendo que juntos podemos alcançar mais, e além disso, a empresa valoriza a ética, a integridade e a transparência em todas as suas ações.
+  
+# Sobre o Projeto
+
+O projeto consiste em determinar quais os modais utilizados nos trâmites internacionais de cargas, onde a partir dos dados coletados, será apresentado um Dashboard interativo, mostrando o fluxo de cargas, onde mostra os dados tanto de importação quanto de exportação, para que assim possa ser analisado e de forma simples, obter uma análise geral do objetivo.
+
+<div align="center">
+
+# Sobre a Empresa
+
+A Expand Solutions, é uma empresa fictícia criada como parte de um projeto universitário na área de logística. Seu foco principal é a aplicação de técnicas de análise de dados em projetos logísticos utilizando informações reais do mercado. A empresa foi fundada por um grupo de estudantes com paixão por logística e interesse em aproveitar os benefícios da análise de dados para melhorar a eficiência operacional das empresas.
+
+A empresa é um exemplo de como a combinação de conhecimento em logística e análise de dados pode trazer benefícios significativos para as empresas. Embora seja uma empresa fictícia criada na faculdade, sua abordagem inovadora para resolver problemas logísticos com base em dados reais pode servir de inspiração para empresas reais que buscam aprimorar suas operações logísticas.
+A cada semestre um tema é desenvolvido, isso nos proporciona ainda mais experiência, pois nos capacita a ser melhores, a utilizar novas tecnologias, aprimoramos o trabalho em equipe, e melhoramos nosso raciocínio lógico.
+
+<div align="center">
+
+# Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- Jira Software
+- Excel
+- Miro
+- Power BI
+- Métodos Scrum
+- 5W2H
+
+
+# Autores
+
 <div align="center">
 
 Scrum Master | Product Owner |
@@ -46,164 +71,5 @@ Scrum Team | Scrum Team | Scrum Team | Scrum Team | Scrum Team
 
 </div>
 
-
-
-# Objetivo do Projeto
-
-O Projeto tem como objetivo, identificar os modais utilizados nos trâmites internacionais de movimentação de cargas e realizar a geografia dos fluxos de cargas, de importação e exportação, para que possa ser desenvolvido um dashboard interativo que permita fazer uma análise dos dados. O dashboard deve conter de forma clara uma visão de qual modal mais utilizado, dos custos que esses modais tiveram, contara com o valor FOB, onde teremos que também assosiar ao SH4.
-
-# Funcionalidades e Registros das Sprints
-
-<p align="center">
- <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
-</p>
-
-## Tecnologias Utilizadas
-
-
-* [5W2H]()
-* [GitHub](https://github.com/ExpandSolution)
-* [Jira Software](https://expandsolutions2.atlassian.net/jira/software/projects/EXPAND/boards/1)
-* [Scrum](https://www.atlassian.com/br/agile/scrum)
-* Power BI;
-  
-  
-# Cronograma das Sprints
-
-## Cronograma
-Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
-
-#### Cronograma das Sprints: 
-
-# Backlog do Produto
-  
 <div align="center">
-    
-![IMG-20231014-WA0019](https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/8ac0607a-49b1-4fcd-8a9c-dc800878bdaa)
-
-
-![IMG-20231014-WA0018](https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/95b6b37d-a797-4821-89d5-27916c32f96a)
-
-</div>
-
-Regras de Negócio
-- 
-
-Requisitos funcionais:
-
-- Dashboard
-- Relatórios
-  
-Requisitos não funcionais:
-
-- Metodologias Ágil
-- Excel / Jira / 5W2H  / Power BI
-  
-
-# Burndown 
-![Burndown]()
-
-
-
-## Sprint 0. Concepção
-- [x] Aprender a mexer no GitHub;
-- [x] Identifique os elementos principais;
-- [x] Pergunta do P.O ao cliente;
-- [x] Organização do Jira Software;
-- [x] Criação do brainstorming no Miro;
-- [x] 5W2H;
-- [x] Construção do Gráfico Burndown;
-- [x] Documentação da Sprint 0;
-- [x] Criação do Backlog da Equipe;
-- [x] Elaboração do Backlog individual;
-- [x] Definir quem vai trabalhar com cada professor;
-- [x] Estruturar a documentação do GitHub e Jira Software;
-
-## Sprint 1. Desenvolvimento do Projeto
-- [x] Documentação Sprint 1;
-- [x] Relatório;
-- [x] 5W2H;
-- [x] Gráfico Burndown;
-- [x] Divisão de Atividades no Jira;
-- [x] Protótipo de dashboard da Sprint 1;
-- [x] Monitoramento e ajustes dos dados;
-- [x] Pegar dados indicadores geral, de Importação e Exportação do Estado de SP;
-- [x] Identificar os modais utilizados para importação e exportação no estado de São Paulo;
-- [x] Montar tabela relacional com base nos dados;
-- [x] Identificar os modais utilizados nos trâmites internacionais de movimento de cargas;
-      
-## Sprint 2. Implementação
-- [ ] Documentação Sprint 2;
-- [ ] Relatório;
-- [ ] 5W2H;
-- [ ] Gráfico Burndown;
-- [ ] Divisão de Atividades no Jira;
-- [ ] Protótipo de dashboard da Sprint 2;
-- [ ] Monitoramento e ajustes dos dados;
-- [ ] Fazer a verificação de um produto com a importação e exportação, verificar qual a frequência de movimentação desse produto, com o estado selecionado (SP), determinar origem, via e URF, com eles no formato de código;
-- [ ] Escolher um município para ter um foco relacionado as informações de importação e exportação, com o SH4;
-- [ ] Identificar oportunidades para melhorias no município, nas atividades de exportação e importação;
-- [ ] Relacionar dados de movimentação de carga da cidade de São José dos Campos;
-- [ ] Relacionar dados de movimentação de carga da cidade de São Paulo;
-- [ ] Relacionar dados de movimentação de carga da cidade de Jundiaí;
-- [ ] Relacionar dados de movimentação de carga da cidade de Campinas;
-- [ ] Relacionar dados de movimentação de carga da cidade de Paulínia;
-      
-## Sprint 3. Operacionalização
-- [ ] Documentação Sprint 3;
-- [ ] Relatório;
-- [ ] 5W2H;
-- [ ] Gráfico Burndown;
-- [ ] Divisão de Atividades no Jira;
-- [ ] Protótipo de dashboard da Sprint 3;
-- [ ] Monitoramento e ajustes dos dados;
-- [ ] Power BI que detalhe o possível Fluxo Logístico de Exportação de uma carga originária de SJC;
-- [ ] Identificar o principal destino dos produtos;
-- [ ] Desenvolver a Geografia do Fluxo de carga para importação e exportação com Dashboard interativo;
-
-
-
-# Competências desenvolvidas
-
-## Hard Skill (Saber Tecnológico)
-
-  
-| Tecnologia/Metodologia | Classificação |
-| ---------------------- | ------------- |
-| Conhecimento em Análise de dados | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Edição de Imagens | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Excel Avançado | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Gestão de Pessoas | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Gestão de Projetos | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
-| Git Projects | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| GitHub | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
-| Manuseio de Ferramentas | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Markdown | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Product Owner | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
-| Proficiência em Inglês | ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Raciocínio Analítico | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Scrum Master | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
- 
-</details>
-
-## Soft Skill (Saber Comportamental)
-
-
-| Habilidades | Classificação |
-| ---------------------- | ------------- |
-| Capacidade de Resolver Problemas | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
-| Colaboração | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
-| Comunicação Eficaz | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Empatia | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
-| Escrita | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Ética | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Flexibilidade | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Gerenciamento de Tempo | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Liderança | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
-| Negociação | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Organização | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
-| Pensamento Criativo | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
-| Relacionamento Interpessoal | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Resiliência | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
-
-</details>
+  <img src="https://github.com/ExpandSolution/Teste/assets/135040407/3c218a89-82f2-4f92-83bf-995f46b5313f" height="400" width="400"/>
