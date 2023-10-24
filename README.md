@@ -74,6 +74,6 @@ Scrum Team | Scrum Team | Scrum Team | Scrum Team | Scrum Team
 
 <div align="center">
     
-![IMG-20231014-WA0019](https://github.com/ExpandSolution/Teste/assets/135040407/443b2a76-ed65-4773-bf44-c07641bedccf)
+![IMG-20231014-WA0019](https://github.com/ExpandSolution/ExpandSolution/assets/135040407/bc25b36e-ba0e-4143-985c-46657d54e246)
 
 
