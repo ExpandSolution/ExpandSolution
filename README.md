@@ -35,6 +35,9 @@ Buscamos a excelência em todos os aspectos de nossas operações, garantindo qu
 
 O projeto consiste em determinar quais os modais utilizados nos trâmites internacionais de cargas, onde a partir dos dados coletados, será apresentado um Dashboard interativo, mostrando o fluxo de cargas, onde mostra os dados tanto de importação quanto de exportação, para que assim possa ser analisado e de forma simples, obter uma análise geral do objetivo.
 
+- [Sprint 0](https://github.com/ExpandSolution/Segundo_Semestre/blob/main/Sprint%200/reademe.md) Entrega realizada em 25/09/2023.
+- [Sprint 1](https://github.com/ExpandSolution/Segundo_Semestre/blob/main/Sprint%201/reademe.md) Entrega realizada em 25/10/2023.
+
 <div align="center">
 
 # Sobre a Empresa
