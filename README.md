@@ -38,6 +38,7 @@ O projeto consiste em determinar quais os modais utilizados nos trâmites intern
 - [Sprint 0](https://github.com/ExpandSolution/Segundo_Semestre/tree/main/Sprint%200) Entrega realizada em 25/09/2023.
 - [Sprint 1](https://github.com/ExpandSolution/Segundo_Semestre/blob/main/Sprint%201/Readme.md) Entrega realizada em 25/10/2023.
 - [Sprint 2](https://github.com/ExpandSolution/Segundo_Semestre/tree/main/Sprint%202) Entrega realizada em 16/11/2023.
+- [Sprint 3](https://github.com/ExpandSolution/Segundo_Semestre/tree/main/Sprint%203) Entrega realizada em 06/12/2023.
 
 <div align="center">
 
