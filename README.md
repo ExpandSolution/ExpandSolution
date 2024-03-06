@@ -33,12 +33,9 @@ Buscamos a excelência em todos os aspectos de nossas operações, garantindo qu
   
 # Sobre o Projeto
 
-O projeto consiste em determinar quais os modais utilizados nos trâmites internacionais de cargas, onde a partir dos dados coletados, será apresentado um Dashboard interativo, mostrando o fluxo de cargas, onde mostra os dados tanto de importação quanto de exportação, para que assim possa ser analisado e de forma simples, obter uma análise geral do objetivo.
+O projeto consiste em...................
 
-- [Sprint 0](https://github.com/ExpandSolution/Segundo_Semestre/tree/main/Sprint%200) Entrega realizada em 25/09/2023.
-- [Sprint 1](https://github.com/ExpandSolution/Segundo_Semestre/blob/main/Sprint%201/Readme.md) Entrega realizada em 25/10/2023.
-- [Sprint 2](https://github.com/ExpandSolution/Segundo_Semestre/tree/main/Sprint%202) Entrega realizada em 16/11/2023.
-- [Sprint 3](https://github.com/ExpandSolution/Segundo_Semestre/tree/main/Sprint%203) Entrega realizada em 06/12/2023.
+- [Sprint 1]() Entrega realizada em 15/04/2024.
 
 <div align="center">
 
@@ -53,27 +50,30 @@ A cada semestre um tema é desenvolvido, isso nos proporciona ainda mais experi�
 
 # Tecnologias
 
-As seguintes ferramentas foram usadas na construção do projeto:
+As seguintes ferramentas foram usadas na construção dos projetos:
 
 - Jira Software
 - Excel
 - Miro
+- Método Ágil
 - Power BI
 - Métodos Scrum
 - 5W2H
+- MySQL
+- Phyton
 
 
 # Autores
 
 <div align="center">
 
-Scrum Master | Product Owner |
+Product Owner | Scrum Master |
 |:------------:|:---------------:|
 <img src="https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/ab6fd304-3440-4af1-9ddf-3dc3f4a46bbe" width=115>[<div>Rosimeire Helena</div>](https://github.com/rosiihelena)</div></sub><br><a href="https://www.linkedin.com/in/rosimeire-helena-138a63269/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=54C5CE&color=292A2D" /></a><sub></sub> | <img src="https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/d136dfab-fc9f-4c0d-be91-f414bff876de" width=115>[<div>Gabriel Santana</div>](https://github.com/GabrielSTN5)</div></sub><br><a href="https://www.linkedin.com/in/gabriel-santana-027794215/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=54C5CE&color=292A2D" /></a><sub></sub>
 
 Scrum Team | Scrum Team | Scrum Team | Scrum Team | Scrum Team
 |:----------:|:----------:|:----------:|:----------:|:----------:|
-<img src="https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/caf73841-44c6-4b04-934e-c81ac7eacce7" width=115>[<div>Ana Júlia</div>](https://github.com/AnaJ240)</div></sub><br><a href="https://www.linkedin.com/in/ana-j%C3%BAlia-gregate-a1399a22a/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=54C5CE&color=292A2D" /></a><sub></sub> | <img src="https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/6c26fa2b-09dc-4a7d-944b-af574d0d7340" width=115>[<div>Diego Campos</div>](https://Diegocampos060686)</div></sub><br><a href="https://www.linkedin.com/in/diego-siqueira-56680926b/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=54C5CE&color=292A2D" /></a><sub></sub> | <img src="https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/784b3b05-0ab5-4dbd-b756-6439c705583a" width=115>[<div>Gabriela Harumi</div>](https://github.com/GabiHarumiGomes)</div></sub><br><a href="https://www.linkedin.com/in/gabriela-harumi-364503183/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=54C5CE&color=292A2D" /></a><sub></sub> | <img src="https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/616c5b5b-a6aa-489b-b038-5286f3e3cabc" width=115>[<div>Joyce Sena</div>](https://github.com/Joycess)</div></sub><br><a href="https://www.linkedin.com/in/joyce-sena-49918b278/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=54C5CE&color=292A2D" /></a><sub></sub> | <img src="https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/aed0509f-d7ee-43d8-88e5-a5fb706652c3" width=115>[<div>Rafael Ramirez</div>](https://github.com/Rafaelramirez190185)</div></sub><br><a href="https://www.linkedin.com/in//rafael-ramirez-286553291/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=54C5CE&color=292A2D" /></a><sub></sub>
+<img src="https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/caf73841-44c6-4b04-934e-c81ac7eacce7" width=115>[<div>Ana Júlia</div>](https://github.com/AnaJ240)</div></sub><br><a href="https://www.linkedin.com/in/ana-j%C3%BAlia-gregate-a1399a22a/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=54C5CE&color=292A2D" /></a><sub></sub> | <img src="https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/6c26fa2b-09dc-4a7d-944b-af574d0d7340" width=115>[<div>Amanda</div>]()</div></sub><br><a href="/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=54C5CE&color=292A2D" /></a><sub></sub> | <img src="https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/784b3b05-0ab5-4dbd-b756-6439c705583a" width=115>[<div>Gabriela Harumi</div>](https://github.com/GabiHarumiGomes)</div></sub><br><a href="https://www.linkedin.com/in/gabriela-harumi-364503183/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=54C5CE&color=292A2D" /></a><sub></sub> | <img src="https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/616c5b5b-a6aa-489b-b038-5286f3e3cabc" width=115>[<div>Joyce Sena</div>](https://github.com/Joycess)</div></sub><br><a href="https://www.linkedin.com/in/joyce-sena-49918b278/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=54C5CE&color=292A2D" /></a><sub></sub> | <img src="https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/aed0509f-d7ee-43d8-88e5-a5fb706652c3" width=115>[<div>Rafael Ramirez</div>](https://github.com/Rafaelramirez190185)</div></sub><br><a href="https://www.linkedin.com/in//rafael-ramirez-286553291/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=54C5CE&color=292A2D" /></a><sub></sub>
 
 </div>
 
