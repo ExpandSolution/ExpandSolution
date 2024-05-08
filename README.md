@@ -35,7 +35,7 @@ Buscamos a excelência em todos os aspectos de nossas operações, garantindo qu
 
 O projeto consiste em...................
 
-- [Sprint 1]() Entrega realizada em 15/04/2024.
+- [Sprint 1](https://github.com/ExpandSolution/Terceiro_Semestre/tree/main/Sprint%201) Entrega realizada em 15/04/2024.
 
 <div align="center">
 
