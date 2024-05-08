@@ -33,9 +33,10 @@ Buscamos a excelência em todos os aspectos de nossas operações, garantindo qu
   
 # Sobre o Projeto
 
-O projeto consiste em...................
+O Projeto visa desenvolver uma solução de um problema proposto pelo parceiro acadêmico, visando solucionar e otimizar rotas/produtividades logísticas de uma empresa. O projeto também visa o desenvolvimento das soluções por meio de Dashboards, banco de dados, etc.
 
 - [Sprint 1](https://github.com/ExpandSolution/Terceiro_Semestre/tree/main/Sprint%201) Entrega realizada em 15/04/2024.
+- [Sprint 2](https://github.com/ExpandSolution/Terceiro_Semestre/tree/main/Sprint%202) Entrega realizada em 08/05/2024.
 
 <div align="center">
 
