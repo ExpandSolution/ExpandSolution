@@ -33,7 +33,7 @@ Buscamos a excelência em todos os aspectos de nossas operações, garantindo qu
   
 # Sobre o Projeto
 
-O Projeto visa desenvolver uma solução de um problema proposto pelo parceiro acadêmico, visando 
+O Projeto visa desenvolver uma solução de um problema proposto pelo parceiro acadêmico, onde iremos fazer uma análise do sistema portuário, para identificar a variação da prancha média operacional, mensalmente, de 2014 a 2023. Contendo uma elaboração de ranking de eficiência para os 10 principais termoinais de movimentação de granel, baseado em quantidade de berços e prancha média operacional.
 
 - [Sprint 1]() Entrega realizada em 15/04/2024.
   
