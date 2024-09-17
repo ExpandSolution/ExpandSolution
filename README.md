@@ -31,7 +31,7 @@ Nossa visão é nos tornarmos globais em soluções de Logística, reconhecidos 
 
 Buscamos a excelência em todos os aspectos de nossas operações, garantindo que nossos serviços atendam ao que o cliente solicita, colocamos seus interesses em primeiro lugar, entendendo suas necessidades e superando suas expectativas, por meio de soluções personalizadas e atendimento excepcional. Valorizamos o trabalho em equipe e a colaboração, tanto dentro da empresa quanto com nossos parceiros e fornecedores, reconhecendo que juntos podemos alcançar mais, e além disso, a empresa valoriza a ética, a integridade e a transparência em todas as suas ações.
   
-# Sobre o Projeto
+# Sobre o Projeto 4° Semestre
 
 O Projeto visa desenvolver uma solução de um problema proposto pelo parceiro acadêmico, onde iremos fazer uma análise do sistema portuário, para identificar a variação da prancha média operacional, mensalmente, de 2014 a 2023. Contendo uma elaboração de ranking de eficiência para os 10 principais termoinais de movimentação de granel, baseado em quantidade de berços e prancha média operacional.
 
